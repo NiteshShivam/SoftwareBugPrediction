@@ -73,6 +73,6 @@ Various performance metrics to evaluate perforamnce namely:
 - cs23m110@iittp.ac.in
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/NiteshShivam)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://niteshshivam.github.io/PersonalWeb/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitesh-yadav-b8847616b/)
 
