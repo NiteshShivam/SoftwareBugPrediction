@@ -11,6 +11,9 @@ Machine learning can plays a very important role in software bug prediction.
 We have used various classifier for this.
 __ __ 
 
+# Running instruction:
+ - Upload the project into google colab
+ - Take all the dataset(link given below and also in google colab file) and set the location of the dataset in the colab and run.
 ## Libraries Used
 
 - sklearn
